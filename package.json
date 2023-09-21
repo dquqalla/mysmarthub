@@ -1,7 +1,7 @@
 {
   "name": "mysmarthub",
   "version": "0.1.0",
-  "hoempage": ""
+  "homepage": "https://mysmarthub.co.uk"
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
